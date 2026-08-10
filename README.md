@@ -1,10 +1,10 @@
 # Movie Recommender System
 
-A content-based movie recommendation system built using Python and Streamlit.
+A content-based movie recommendation system built using Python.
 
 ## Features
 
-- Recommends similar movies
+- Recommended similar movies
 - Simple and interactive user interface
 - Fast recommendations using a similarity matrix
 
